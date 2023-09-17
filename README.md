@@ -41,7 +41,7 @@ Here are some of the projects I'm proud of:
 
 Till May, 2023
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunodaya9027&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunodaya9027&layout=compact&theme=dracula)
 
 <!-- Contact and Social -->
 ## Let's Connect
