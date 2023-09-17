@@ -6,7 +6,10 @@ I'm a passionate Polyglot Developer with a love for creating amazing projects. W
 
 <!-- About Me -->
 ## About Me
-- 🌟 [Add a short bio about yourself]
+- 🌟 I'm a versatile developer experienced in various domains.
+- 👨‍💻 I bring excellent teamwork and project management abilities to the table. I believe in infusing enjoyment and fun into every task I undertake.
+- 😄 With a naturally jolly disposition, I find joy in both my work and leisure activities.
+- 🎮 When I'm not coding, you can often find me gaming or enjoying my favorite tunes. Let's build something amazing together!
 - 🚀 Currently working on something exciting for Smart India Hackathon'23.
 - 🌱 I'm constantly learning and exploring new technologies.
 
@@ -31,7 +34,7 @@ Here are some of the projects I'm proud of:
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunodaya9027&show_icons=true&theme=white)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunodaya9027&show_icons=true&theme=white)
 
 <!-- Contact and Social -->
 ## Let's Connect
