@@ -7,7 +7,8 @@ I'm a passionate Polyglot Developer with a love for creating amazing projects. W
 <!-- About Me -->
 ## About Me
 - 🌟 I'm a versatile developer experienced in various domains.
-- 👨‍💻 I bring excellent teamwork and project management abilities to the table. I believe in infusing enjoyment and fun into every task I undertake.
+- 👨‍💻 I bring excellent teamwork and project management abilities to the table.
+- 🙋🏼‍♂️ I believe in infusing enjoyment and fun into every task I undertake.
 - 😄 With a naturally jolly disposition, I find joy in both my work and leisure activities.
 - 🎮 When I'm not coding, you can often find me gaming or enjoying my favorite tunes. Let's build something amazing together!
 - 🚀 Currently working on something exciting for Smart India Hackathon'23.
@@ -15,7 +16,7 @@ I'm a passionate Polyglot Developer with a love for creating amazing projects. W
 
 <!-- Technologies -->
 ## Technologies I Love
-- 💻 React Js
+- 💻 React Js & Angular Js
 - ⚙️ MongoDb
 - 📱 Figma
 - 🌐 Node Js
@@ -34,7 +35,13 @@ Here are some of the projects I'm proud of:
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunodaya9027&show_icons=true&theme=white)
+![Arunodaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunodaya9027&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Arunodaya'sGitHubStats)
+
+## Most Used Languages
+
+Till May, 2023
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunodaya9027&layout=compact)
 
 <!-- Contact and Social -->
 ## Let's Connect
