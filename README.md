@@ -35,7 +35,7 @@ Here are some of the projects I'm proud of:
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Arunodaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunodaya9027&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Arunodaya'sGitHubStats)
+![Arunodaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunodaya9027&show_icons=true&theme=dracula&include_all_commits=true)
 
 ## Most Used Languages
 
