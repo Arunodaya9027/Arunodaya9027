@@ -50,8 +50,7 @@ Till May, 2023
 - 🐦 Follow me on [Instagram](https://www.instagram.com/arunodaya_p07s/).
 
 <!-- Footer -->
-### [Thanks for visiting! Enjoy exploring my repositories. 🚀](https://github.com/Arunodaya9027?tab=repositories)
-
+### Thanks for visiting! Enjoy exploring my repositories. 🚀
 
 <!---
 Arunodaya9027/Arunodaya9027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
