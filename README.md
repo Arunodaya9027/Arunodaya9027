@@ -7,17 +7,17 @@ I'm a passionate Polyglot Developer with a love for creating amazing projects. W
 <!-- About Me -->
 ## About Me
 - 🌟 I'm a versatile developer experienced in various domains.
-- 👨‍💻 I bring excellent teamwork and project management abilities to the table.
+- 👨‍💻 I bring excellent Leadership and project management abilities to the table.
 - 🙋🏼‍♂️ I believe in infusing enjoyment and fun into every task I undertake.
 - 😄 With a naturally jolly disposition, I find joy in both my work and leisure activities.
-- 🎮 When I'm not coding, you can often find me gaming or enjoying my favorite tunes.
-- 🚀 Currently working on something exciting for Smart India Hackathon'23.
+- 🎮 When I'm not coding, you can often find me gaming or writing some lyrics of my song.
+- 🚀 Currently learning about AI and its usages.
 - 🌱 I'm constantly learning and exploring new technologies.
 
 <!-- Technologies -->
 ## Technologies I Love
 - 💻 React Js & Angular Js
-- ⚙️ MongoDb
+- ⚙️ MongoDb & MySql
 - 📱 Figma
 - 🌐 Node Js
 
