@@ -2,7 +2,7 @@
 # 👋 Hello, I'm Arunodaya Pratap Singh
 
 <!-- Introduction -->
-I'm a passionate Polyglot Developer with a love for creating amazing projects. Welcome to my GitHub profile!
+I'm a passionate Developer with a love for creating amazing projects. Welcome to my GitHub profile!
 
 <!-- About Me -->
 ## About Me
