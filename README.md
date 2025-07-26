@@ -6,7 +6,7 @@ I'm a passionate Developer with a love for creating amazing projects. Welcome to
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arunodaya9027&label=Profile%20views&color=0e75b6&style=flat" alt="Arunodaya9027" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arunodaya9027" alt="Arunodaya9027" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arunodaya9027&theme=dracula" alt="Arunodaya9027" /></a> </p>
 
 <!-- About Me -->
 ## About Me
@@ -47,7 +47,7 @@ Here are some of the projects I'm proud of:
 
 ## Current Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arunodaya9027&" alt="Arunodaya9027" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arunodaya9027&theme=dracula" alt="Arunodaya9027" /></p>
 
 
 ## Github Stats
@@ -59,11 +59,9 @@ Here are some of the projects I'm proud of:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arunodaya9027&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Arunodaya9027" /></p>
 
-
-<br/>
-<br/>
-
+<p>&nbsp;</p>
 <!-- Contact and Social -->
+
 ## Let's Connect
 - 📫 You can reach me at [Gmail](arunodaya9027p.sg@gmail.com).
 - 📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/arunodaya-p-singh-9027/).
