@@ -61,6 +61,12 @@ Here are some of the projects I'm proud of:
 
 <p>&nbsp;</p>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <!-- Contact and Social -->
 
 ## Let's Connect
