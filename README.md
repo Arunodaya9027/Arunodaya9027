@@ -2,7 +2,7 @@
 # 👋 Hello, I'm Arunodaya Pratap Singh
 
 <!-- Introduction -->
-I'm a passionate Developer with a love for creating amazing projects. Welcome to my GitHub profile!
+I'm a passionate Full-Stack Developer with a love for creating amazing projects. Welcome to my GitHub profile!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arunodaya9027&label=Profile%20views&color=0e75b6&style=flat" alt="Arunodaya9027" /> </p>
 
